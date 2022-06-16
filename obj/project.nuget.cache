@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xj3yEkWBM0bbjBl36vXT+WmSKQkFErMmRGQ7gC8XMrW1Uh+OE+bv0s0Ij6tUyfBJnpmE4Ie+lX+rire+HSm/sQ==",
+  "success": true,
+  "projectFilePath": "/Users/muhammed/Documents/CPR Calculator/CPR Calculator.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammed/.nuget/packages/nstack.core/0.16.0/nstack.core.0.16.0.nupkg.sha512",
+    "/Users/muhammed/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/muhammed/.nuget/packages/terminal.gui/1.5.0/terminal.gui.1.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
