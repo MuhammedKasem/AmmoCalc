@@ -5,7 +5,7 @@ Console.WriteLine("Welcome to my CPR Calculator! Never overpay for ammo again! \
 // string readCount = Console.ReadLine();
 // double roundCount = double.Parse(readCount);
 double roundCount = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("How many boxes are you buying?");
+Console.WriteLine("How many boxes will you be buying?");
 int ammoBoxes = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Okay Cool! What is the price per box?");
 double roundPrice = Convert.ToDouble(Console.ReadLine());
